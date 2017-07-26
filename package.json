@@ -1,6 +1,6 @@
 {
   "name": "mt-files-downloader",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Download manager with multiple features : download stats, stop & resume, auto-retry (continue) in case of error, events, etc.",
   "main": "lib/Downloader.js",
   "scripts": {
@@ -18,6 +18,6 @@
   "homepage": "https://github.com/leeroybrun/node-mt-files-downloader",
   "dependencies": {
     "moment": "^2.12.0",
-    "zeltice-mt-downloader": "^1.1.0"
+    "Fer0x/zeltice-mt-downloader": "^1.1.4"
   }
 }
