@@ -1,6 +1,6 @@
 # Multi Threaded Files Downloader
 
-This module wrap the [zeltice-mt-downloader](https://www.npmjs.com/package/zeltice-mt-downloader) module and let you :
+This module wrap the [Fer0x/mt-downloader](https://github.com/Fer0x/mt-downloader) module and let you :
 
 - Manage multiple downloads
 - Get stats (speed, eta, completed, etc)
@@ -8,6 +8,7 @@ This module wrap the [zeltice-mt-downloader](https://www.npmjs.com/package/zelti
 - Manually resume a download from partial file
 - Stop and resume downloads
 - Get notified by events when a download start, fail, retry, stopped, destroyed or complete
+- Better work with Windows
 
 ## Install
 
