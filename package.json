@@ -1,6 +1,6 @@
 {
   "name": "mt-files-downloader",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "description": "Download manager with multiple features : download stats, stop & resume, auto-retry (continue) in case of error, events, etc.",
   "main": "lib/Downloader.js",
   "scripts": {
